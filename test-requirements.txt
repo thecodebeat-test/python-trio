@@ -18,7 +18,7 @@ flake8==3.7.9             # via -r test-requirements.in (line 12)
 idna==2.9                 # via -r test-requirements.in (line 24), trustme
 immutables==0.11          # via -r test-requirements.in (line 31)
 ipython-genutils==0.2.0   # via traitlets
-ipython==7.9.0            # via -r test-requirements.in (line 4)
+ipython==7.13.0           # via -r test-requirements.in (line 4)
 isort==4.3.21             # via pylint
 jedi==0.16.0              # via -r test-requirements.in (line 8), ipython
 lazy-object-proxy==1.4.3  # via astroid
